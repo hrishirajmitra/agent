@@ -1,0 +1,10 @@
+﻿python : Both GOOGLE_API_KEY and GEMINI_API_KEY 
+are set. Using GOOGLE_API_KEY.
+At line:1 char:1
++ python run_demo.py > demo_output.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Both  
+   GOOGLE_API...GOOGLE_API_KEY.:String) [], Remot  
+  eException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
